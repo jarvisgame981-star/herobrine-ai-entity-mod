@@ -1,0 +1,52 @@
+{
+	"cave1": {
+		"sounds": [
+			"classic_herobrine:cave1"
+		]
+	},
+	"cave2": {
+		"sounds": [
+			"classic_herobrine:cave2"
+		]
+	},
+	"cave3": {
+		"sounds": [
+			"classic_herobrine:cave3"
+		]
+	},
+	"cave4": {
+		"sounds": [
+			"classic_herobrine:cave4"
+		]
+	},
+	"cave5": {
+		"sounds": [
+			"classic_herobrine:cave5"
+		]
+	},
+	"cave6": {
+		"sounds": [
+			"classic_herobrine:cave6"
+		]
+	},
+	"cave7": {
+		"sounds": [
+			"classic_herobrine:cave7"
+		]
+	},
+	"cave8": {
+		"sounds": [
+			"classic_herobrine:cave8"
+		]
+	},
+	"cave9": {
+		"sounds": [
+			"classic_herobrine:cave9"
+		]
+	},
+	"cave10": {
+		"sounds": [
+			"classic_herobrine:cave10"
+		]
+	}
+}

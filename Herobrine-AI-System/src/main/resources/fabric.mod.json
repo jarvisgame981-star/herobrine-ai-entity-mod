@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "classic_herobrine",
+	"version": "${version}",
+	"name": "The Classic Herobrine",
+	"description": "A full Herobrine entity with stalking and combat foundations.",
+	"authors": [
+		"Engai and Codex"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/classic_herobrine/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.engai.herobrine.ClassicHerobrineMod"
+		],
+		"client": [
+			"com.engai.herobrine.client.ClassicHerobrineClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.2",
+		"minecraft": "~26.1.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
